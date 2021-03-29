@@ -1,5 +1,4 @@
-Hosted on https://6061e89c3c5c8f2dd94bf88f--portfolio-srk.netlify.app/
-
+Hosted on https://portfolio-srk.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
