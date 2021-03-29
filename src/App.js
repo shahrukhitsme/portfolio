@@ -61,7 +61,7 @@ class App extends Component{
             </div>
         );
         let readButton = (
-            <span className="chevron bottom" onMouseEnter={this.expand} id='readMoreBtn'></span>
+            <span className="chevron bottom" onClick={this.expand} onMouseEnter={this.expand} id='readMoreBtn'></span>
         );
         return (
             <div>
