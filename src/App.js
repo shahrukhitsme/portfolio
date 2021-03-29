@@ -20,7 +20,7 @@ class App extends Component{
             }
         );*/
         let val = document.getElementById("readButton").innerText;
-        document.getElementById("readButton").innerText=val=="Read more"?"Read less":"Read more";
+        document.getElementById("readButton").innerText=val==="Read more"?"Read less":"Read more";
     }
 
     expand = (e) => {

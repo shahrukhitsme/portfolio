@@ -7,7 +7,7 @@ class SocialProfile extends Component{
     }
 
     render(){
-        const {id, link, image} = this.props.profile;
+        const {link, image} = this.props.profile;
         return(
             <div style={{display:'inline-block', margin:5}}>
             <a href={link}><img src={image} height="30" width="30" className='social-profiles'/></a>            </div>

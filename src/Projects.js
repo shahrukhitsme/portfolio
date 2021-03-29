@@ -18,9 +18,6 @@ class Project extends Component{
 }
 
 class Projects extends Component{
-    constructor(){
-        super();
-    }
 
     render(){
         return (
